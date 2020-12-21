@@ -1,7 +1,13 @@
-### Hi there 👋.   
+### Hi there 👋   
 
-### About me.  
-I am currently a Master student in the Computational Medicine and Bioinformatcis program at University of Michigan. My trainings included biochemistry, genetics, computer sciences and statistics.  
+### About me   
+I am currently a Master student in the Computational Medicine and Bioinformatcis program at University of Michigan. My trainings included biochemistry, genetics, computer sciences and statistics.   
+
+### 🔭 I’m currently working on   
+- Multi-omics and single-cell analysis in finding signatures of Ewing Sarcoma    
+
+### 🌱 I’m currently learning   
+
 <!--
 **SummerYYY96/SummerYYY96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
