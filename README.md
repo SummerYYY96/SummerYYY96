@@ -4,7 +4,7 @@
 I am currently a Master student in the Computational Medicine and Bioinformatcis program at University of Michigan. My trainings included biochemistry, genetics, computer sciences and statistics.   
 
 ### 🔭 I’m currently working on   
-- Multi-omics and single-cell analysis in finding signatures of Ewing Sarcoma    
+- Multi-omics and single-cell analysis with interests in finding Ewing Sarcoma signature   
 
 ### 🌱 I’m currently learning   
 
