@@ -8,6 +8,10 @@ I am currently a Master student in the Computational Medicine and Bioinformatcis
 
 ### 🌱 I’m currently learning   
 
+### 📫 How to reach me    
+Send me an email ➡️ sumyang@umich.edu   
+Linkedin ➡️ https://www.linkedin.com/in/yiying-summer-yang/
+
 <!--
 **SummerYYY96/SummerYYY96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
