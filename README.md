@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋.   
 
+### About me.  
+I am currently a Master student in the Computational Medicine and Bioinformatcis program at University of Michigan. My trainings included biochemistry, genetics, computer sciences and statistics.  
 <!--
 **SummerYYY96/SummerYYY96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
