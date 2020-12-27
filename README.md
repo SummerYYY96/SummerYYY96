@@ -8,7 +8,7 @@ Prior to grad school, I had my undergraduate training at UC Davis in biological 
 - Multi-omics and single-cell analysis with interests in finding Ewing Sarcoma signature   
 
 ### 🌱 I’m currently learning   
-- Drug discoveries
+- Drug discoveries w/ the help of machine learning 
 
 ### 📫 How to reach me    
 Send me an email ➡️ sumyang@umich.edu   
