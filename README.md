@@ -1,8 +1,8 @@
 ### Hi there 👋   
 
 ### About me   
-I am currently a Master student in the Computational Medicine and Bioinformatcis program at University of Michigan. My trainings included biochemistry, genetics, computer sciences and statistics.   
-Prior to grad school, I had my undergraduate training at UC Davis in biological sciences. I had internships in Denish-Kumar lab and Ronald lab, working on projects of plants innate immunity to gain hands-on wet lab experiences. 
+I am currently a Master student in the Computational Medicine and Bioinformatics program at the University of Michigan. My training included biochemistry, genetics, computer sciences, and statistics. 
+Prior to grad school, I had my undergraduate training at UC Davis in biological sciences. I had internships in the Denish-Kumar lab and the Ronald lab, working on plants' innate immunity projects to gain hands-on wet lab experiences. 
 
 ### 🔭 I’m currently working on   
 - Multi-omics and single-cell analysis with interests in finding Ewing Sarcoma signature   
