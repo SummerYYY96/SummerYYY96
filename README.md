@@ -5,10 +5,10 @@ I am currently a Master student in the Computational Medicine and Bioinformatics
 Prior to grad school, I had my undergraduate training at UC Davis in biological sciences. I had internships in the Denish-Kumar lab and the Ronald lab, working on plants' innate immunity projects to gain hands-on wet lab experiences. 
 
 ### 🔭 I’m currently working on   
-- Multi-omics and single-cell analysis with interests in finding Ewing Sarcoma signature   
+- RNAseq and single-cell RNAseq analysis with interests in finding Ewing Sarcoma signature   
 
 ### 🌱 I’m currently learning   
--  
+ 
 
 ### 📫 How to reach me    
 Send me an email ➡️ sumyang@umich.edu   
