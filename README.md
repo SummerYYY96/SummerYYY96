@@ -10,7 +10,7 @@ Prior to grad school, I had my undergraduate training at UC Davis in biological 
 
 ### 🌱 I’m currently learning   
 - Signal processing and machine learning 
-- "total" RNA-seq
+- R Shiny web apps
 
 ### 📫 How to reach me    
 Send me an email ➡️ sumyang@umich.edu   
