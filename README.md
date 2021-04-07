@@ -7,10 +7,11 @@ Prior to grad school, I had my undergraduate training at UC Davis in biological 
 ### 🔭 I’m currently working on   
 - RNA-seq and single-cell RNA-seq analysis with interests in finding Ewing Sarcoma signature   
 - Pipeline development on identification of aberrant splicing events in cancer  
+- Interactive interface for MERFISH probe design and probe quallity control  
 
 ### 🌱 I’m currently learning   
-- Signal processing and machine learning 
-- R Shiny web apps
+- Biomedical signal processing and machine learning in MATLAB  
+- R Shiny web apps  
 
 ### 📫 How to reach me    
 Send me an email ➡️ sumyang@umich.edu   
