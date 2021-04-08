@@ -18,7 +18,7 @@ Send me an email ➡️ sumyang@umich.edu
 Linkedin ➡️ https://www.linkedin.com/in/yiying-summer-yang/    
 
 ### ⚡ Fun fact   
-I love outdoors, rock climbing and hiking (did half-dome cable, 20 miles round trip!). I also collect postcards and stamps all around the world. Amateur naturalist.    
+I love outdoors, rock climbing and hiking (did half-dome cable, 20 miles round trip!). Casually exploring the world by collecting postcards and stamps all around the globe. Amateur naturalist.    
 
 <!--
 **SummerYYY96/SummerYYY96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
