@@ -5,9 +5,9 @@ I am currently a Master student in the Computational Medicine and Bioinformatics
 Prior to grad school, I had my undergraduate training at UC Davis in biological sciences. I had internships in the Denish-Kumar lab and the Ronald lab, working on plants' innate immunity projects to gain hands-on wet lab experiences. 
 
 ### 🔭 I’m currently working on   
-- RNA-seq and single-cell RNA-seq analysis with interests in finding Ewing Sarcoma signature   
-- Pipeline development on identification of aberrant splicing events in cancer  
-- Interactive interface for MERFISH probe design and probe quallity control  
+- RNA-seq and single-cell RNA-seq analysis with interests in finding Ewing Sarcoma signature    
+- Development pipeline to quantify mature and premature mRNAs abundace from RNA-seq data    
+- Interactive interface for MERFISH probe design and probe quallity control   
 
 ### 🌱 I’m currently learning   
 - Biomedical signal processing and machine learning in MATLAB  
