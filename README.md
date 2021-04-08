@@ -6,7 +6,7 @@ Prior to grad school, I had my undergraduate training at UC Davis in biological 
 
 ### 🔭 I’m currently working on   
 - RNA-seq and single-cell RNA-seq analysis with interests in finding Ewing Sarcoma signature    
-- Development pipeline to quantify mature and premature mRNAs abundace from RNA-seq data    
+- Development pipeline to quantify mature and premature mRNAs abundance from RNA-seq data    
 - Interactive interface for MERFISH probe design and probe quallity control   
 
 ### 🌱 I’m currently learning   
