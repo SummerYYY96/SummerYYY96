@@ -5,8 +5,11 @@ I am currently a Bioinformatics Programmer at NYU Lagone working on both clinica
 Prior to grad school, I had my undergraduate training at UC Davis in biological sciences. I had internships in the Denish-Kumar lab and the Ronald lab, working on plants' innate immunity projects to gain hands-on wet lab experiences. 
 
 ### 🔭 I’m currently working on    
+Cliical bioinformatics
+DNA methylation and HiC 
 
 ### 🌱 I’m currently learning   
+- HiC data analysis
 
 ### 📫 How to reach me    
 Send me an email ➡️ sumyang@umich.edu   
