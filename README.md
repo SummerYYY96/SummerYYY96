@@ -9,7 +9,9 @@ Cliical bioinformatics, Molecular Pathology
 DNA methylation and HiC    
 
 ### 🌱 I’m currently learning   
-- HiC data analysis
+- HiC data analysis  
+- Nextflow
+- Singularity
 
 ### 📫 How to reach me    
 Send me an email ➡️ sumyang@umich.edu   
