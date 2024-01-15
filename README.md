@@ -14,7 +14,7 @@ DNA methylation and HiC
 - Singularity
 
 ### 📫 How to reach me    
-Send me an email ➡️ sumyang@umich.edu   
+Send me an email ➡️ summeryang96@gmail.com  
 Linkedin ➡️ https://www.linkedin.com/in/yiying-summer-yang/    
 
 ### ⚡ Fun fact   
